@@ -25,7 +25,7 @@
       
         <categories>
             
-            <category> 测试 </category>
+            <category> 测试test05 </category>
             
         </categories>
         
@@ -49,16 +49,11 @@
 ]]></content>
       
         
-    </entry>
-    
-    <entry>
-      <title><![CDATA[test测试文本工具的第一篇文章]]></title>
-      <url>/2017/08/11/test/</url>
-      <content type="html"><![CDATA[<p><img src="http://www.1688wan.com/allimgs/image/2015/12/30/20151230113119_806.png" alt="仙侠竞技类大作《一剑灭仙》30号震撼开测"></p>
-<p><strong>文本编辑器的效果测试一下这个效果看看如何。</strong></p>
-<p>我想说的是用Typora作为md的编辑器是一个很不错的文本工具。</p>
-]]></content>
-      
+        <tags>
+            
+            <tag> 文章03 </tag>
+            
+        </tags>
         
     </entry>
     
@@ -145,6 +140,18 @@
 <li>Written with <a href="https://stackedit.io/" target="_blank" rel="external">StackEdit</a>.</li>
 </ul>
 </blockquote>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[test测试文本工具的第一篇文章]]></title>
+      <url>/2017/08/11/test/</url>
+      <content type="html"><![CDATA[<p><img src="http://www.1688wan.com/allimgs/image/2015/12/30/20151230113119_806.png" alt=""></p>
+<p><strong>文本编辑器的效果测试一下这个效果看看如何。</strong></p>
+<p>我想说的是用Typora作为md的编辑器是一个很不错的文本工具。</p>
+<p><img src="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" alt=""></p>
 ]]></content>
       
         
