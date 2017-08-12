@@ -3,18 +3,20 @@
   
     
     <entry>
-      <title><![CDATA[test02]]></title>
-      <url>/2017/08/12/Test02/</url>
-      <content type="html"><![CDATA[<p><strong>Test02图片测试</strong>                                                                                                                                                                              </p>
-<p><code>![](Test02/hero_image.jpg)</code></p>
-<p><img src="/12/Test02/hero_image.jpg" alt="image"></p>
-<p><img src="/12/Test02/hero_image.jpg" alt=""><br>/img/hero_image.jpg</p>
+      <title><![CDATA[图片测试仍然在继续]]></title>
+      <url>/2017/08/12/test02/</url>
+      <content type="html"><![CDATA[<p><strong>Test02图片测试,有很多的地方觉得不是那么容易编译出效果，果然hexo 不是那么好驾驭</strong>                                                                                                                                                                              </p>
+<p><code>![](/test02/test02.jpg)</code></p>
+<h5 id="1：疑问？"><a href="#1：疑问？" class="headerlink" title="1：疑问？"></a>1：疑问？</h5><p>图片在测试的过程中在本地可以看到，可是一上载到仓库就失效我也不知道为何。</p>
+<p><img src="/test02/test02.jpg" alt="image"></p>
+<p><img src="/test02.jpg" alt=""></p>
+<h5 id="2：奇怪？"><a href="#2：奇怪？" class="headerlink" title="2：奇怪？"></a>2：奇怪？</h5><p>基本上图片以相对路径来写会显示不出/test02/test02.jpg</p>
 ]]></content>
       
         
         <tags>
             
-            <tag> 文章02 test02 </tag>
+            <tag> 图片测试 test </tag>
             
         </tags>
         
@@ -24,8 +26,8 @@
       <title><![CDATA[test05]]></title>
       <url>/2017/08/12/test05/</url>
       <content type="html"><![CDATA[<p>如果这是真的可以定义图片的话就好了</p>
-<p><code><img src="/2017/08/12/test05/hero_image.jpg" alt="AAAAAAAAAA" title="AAAAAAAAAA"></code></p>
-<p><code><img src="/2017/08/12/test05/hero_image.jpg" alt="BBBBBBBBBB" title="BBBBBBBBBB"></code></p>
+<p><code></code></p>
+<p><code></code></p>
 <p><code>[](./test05/hero_image.jpg =100x)</code></p>
 ]]></content>
       
@@ -47,24 +49,80 @@
     </entry>
     
     <entry>
-      <title><![CDATA[Test03]]></title>
-      <url>/2017/08/11/Test03/</url>
-      <content type="html"><![CDATA[<p><img src="/11/Test03/hero_image.jpg" alt=""></p>
-<p>thumbnail: /images/random/bg4.jpg<br>thumbnail: /Test03/hero_image.jpg<br>thumbnail: <a href="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" target="_blank" rel="external">https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg</a><br><img src="/2017/08/11/Test03/hero_image.jpg" alt="This is an example image" title="This is an example image"></p>
+      <title><![CDATA[图片测试继续进行时，可能要用一些方法才奏效]]></title>
+      <url>/2017/08/11/test03/</url>
+      <content type="html"><![CDATA[<h4 id="测试图片03"><a href="#测试图片03" class="headerlink" title="测试图片03"></a>测试图片03</h4><p>看来用图床可以很好的实现功能个</p>
+<p><img src="/test03/test03.jpg" alt=""></p>
+<p>thumbnail: <a href="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" target="_blank" rel="external">https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg</a><br><img src="/2017/08/11/test03/test03.jpg" alt="这是个图片的插入方式的测试描述" title="这是个图片的插入方式的测试描述"></p>
 ]]></content>
       
         
         <tags>
             
-            <tag> 文章03 test03 </tag>
+            <tag> 图片测试 image test </tag>
             
         </tags>
         
     </entry>
     
     <entry>
+      <title></title>
+      <url>/2017/08/11/test01/</url>
+      <content type="html"><![CDATA[<p><strong>文本编辑器的效果测试一下这个效果看看如何。</strong></p>
+<hr>
+<p>我想说的是用Typora作为md的编辑器是一个很不错的文本工具。</p>
+<p>作为一个起始我一直都梦想有个像样子的编译工具终于我找到了这款好用的文本编译器了。</p>
+<p>接下来作为测试要经理很多磨练才能很好的磨合目前所了解到的功能。</p>
+<p>Frist</p>
+<p>图片的插入直接用右键可以插入image，所使用的格式是[] 内的是描述（）内的是图片路径。</p>
+<p><img src="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" alt=""></p>
+<p>Second</p>
+<p>[^第一篇文章测试]: </p>
+<p>3：</p>
+<p>[第一篇文章测试]: </p>
+<p>4：</p>
+<hr>
+<p>5：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">第篇文章测试表格文字1</th>
+<th style="text-align:center">第篇文章测试表格文字2</th>
+<th style="text-align:right">第篇文章测试表格文字3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">第篇文章测试表格文字4</td>
+<td style="text-align:center">第篇文章测试表格文字5</td>
+<td style="text-align:right">第篇文章测试表格文字6</td>
+</tr>
+<tr>
+<td style="text-align:left">第篇文章测试表格文字7</td>
+<td style="text-align:center">第篇文章测试表格文字8</td>
+<td style="text-align:right">第篇文章测试表格文字9</td>
+</tr>
+<tr>
+<td style="text-align:left">第篇文章测试表格文字10</td>
+<td style="text-align:center">第篇文章测试表格文字11</td>
+<td style="text-align:right">第篇文章测试表格文字12</td>
+</tr>
+</tbody>
+</table>
+<p>6：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ git clone http://你的镜像地址网址.html themes/name</div></pre></td></tr></table></figure>
+<p>7：<br>$$<br>第一篇文章测试<br>$$<br>8：</p>
+<p>[TOC]</p>
+<p>9：</p>
+<h1 id="Heading1"><a href="#Heading1" class="headerlink" title="Heading1"></a>Heading1</h1><h2 id="Heading2"><a href="#Heading2" class="headerlink" title="Heading2"></a>Heading2</h2><h3 id="Heading3"><a href="#Heading3" class="headerlink" title="Heading3"></a>Heading3</h3><h4 id="Heading4"><a href="#Heading4" class="headerlink" title="Heading4"></a>Heading4</h4><h5 id="Heading5"><a href="#Heading5" class="headerlink" title="Heading5"></a>Heading5</h5><h6 id="Heading6"><a href="#Heading6" class="headerlink" title="Heading6"></a>Heading6</h6><p>10：插入音乐播放器</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&id=5046228&auto=1&height=32"></iframe>]]></content>
+      
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>/2017/08/11/hello-world/</url>
+      <url>/2017/08/08/hello-world/</url>
       <content type="html"><![CDATA[<p><img src="https://portablehexo.bitmoe.cn/hexopp/hexop.png" alt=""></p>
 <blockquote>
 <p><strong>本版本仅适用于Win环境</strong><br>本文关键字： <strong>Hexo绿色版</strong>，<strong>Hexo便携版</strong>，<strong>Hexo配置</strong>，<strong>Hexo</strong>，<strong>U盘</strong></p>
@@ -145,18 +203,6 @@
 <li>Written with <a href="https://stackedit.io/" target="_blank" rel="external">StackEdit</a>.</li>
 </ul>
 </blockquote>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[测试文本工具的第一篇文章]]></title>
-      <url>/2017/08/11/test/</url>
-      <content type="html"><![CDATA[<p><strong>文本编辑器的效果测试一下这个效果看看如何。</strong></p>
-<p>我想说的是用Typora作为md的编辑器是一个很不错的文本工具。</p>
-<p><img src="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" alt=""></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&id=5046228&auto=1&height=32"></iframe>
 ]]></content>
       
         

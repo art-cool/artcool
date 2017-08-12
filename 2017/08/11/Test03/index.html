@@ -137,7 +137,7 @@
     
 <article id="post">
   <div class="post-page-title" style="background-color:#26A69A;background-image:url(https://i.pximg.net/img-original/img/2017/07/16/18/02/00/63894118_p0.jpg)" >
-  <h2>Test03</h2>
+  <h2>图片测试继续进行时，可能要用一些方法才奏效</h2>
     
   <p>作者:ART &nbsp&nbsp 发布于:<time datetime="2017-08-11T13:36:56.000Z">
           2017-08-11
@@ -146,11 +146,37 @@
     
   </div>
   <div class="post-page-content">
-  <p><img src="/11/Test03/hero_image.jpg" alt=""></p>
-<p>thumbnail: /images/random/bg4.jpg<br>thumbnail: /Test03/hero_image.jpg<br>thumbnail: <a href="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" target="_blank" rel="external">https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg</a><br><img src="/2017/08/11/Test03/hero_image.jpg" alt="This is an example image" title="This is an example image"></p>
+  <h4 id="测试图片03"><a href="#测试图片03" class="headerlink" title="测试图片03"></a>测试图片03</h4><p>看来用图床可以很好的实现功能个</p>
+<p><img src="/test03/test03.jpg" alt=""></p>
+<p>thumbnail: <a href="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" target="_blank" rel="external">https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg</a><br><img src="/2017/08/11/test03/test03.jpg" alt="这是个图片的插入方式的测试描述" title="这是个图片的插入方式的测试描述"></p>
 
   </div>
   <!--评论块-->
+    
+  <div id="disqus_thread" style="padding:30px;text-align: center;border-top:1px solid silver " data-diaque="XXX.disqus.com"><button style="margin: 0 auto;background-color:#26A69A " class="btn" onclick="disqus()">加载评论(被墙则无法加载)</button></div>
+
+  <script>
+
+      /**
+       *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+       *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+      /*
+       var disqus_config = function () {
+       this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+       this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+       };
+       */
+      function disqus() { // DON'T EDIT BELOW THIS LINE
+          var d = document, s = d.createElement('script'),v = d.createElement('script'),disquUrl=document.getElementById("disqus_thread").dataset.diaque;
+          v.id = 'dsq-count-scr'
+          v.src= '//'+disquUrl+'/count.js';
+          s.src = 'https://'+disquUrl+'/embed.js';
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(v);
+          (d.head || d.body).appendChild(s);
+      }
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     
 
 </article>
@@ -165,7 +191,7 @@
 
   <!-- Next Nav -->
     
-  <a href="/2017/08/11/hello-world/" id="post_nav-older" class="post-nav-content next-content">
+  <a href="/2017/08/11/test01/" id="post_nav-older" class="post-nav-content next-content">
       旧篇
   </a>
     
@@ -173,7 +199,7 @@
 <div class="post-toc-btn"><i class="material-icons">format_list_numbered</i></div>
 <div class="post-toc-none"><p>(无)</p></div>
 <div class="post-toc-box">
-    
+    <ol class="post-toc"><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#测试图片03"><span class="post-toc-number">1.</span> <span class="post-toc-text">测试图片03</span></a></li></ol>
 </div>
 <!--<div class="post-back"><i class="material-icons">arrow_back</i></div>-->
 <script type="text/javascript">
@@ -186,8 +212,31 @@
     <a  id="top-button" onfocus="this.blur();"><div class="up upinbody" style="background-color:#26A69A"><i class="material-icons material-up">vertical_align_top</i></div></a>
 
 
-<p style="line-height: 45px">Copyright ©  2017  艺库</p>
-<p style="line-height: 45px">Powered by <a href="https://hexo.io/" target="_blank"> Hexo </a> && Theme - <a href="https://github.com/moumao/hexo-theme-Vateral" target="_blank">Vateral</a></p>
+<p >Copyright ©  2017  艺库</p>
+<p >Powered by <a href="https://hexo.io/" target="_blank"> Hexo </a> & Theme - <a href="https://github.com/moumao/hexo-theme-Vateral" target="_blank">Vateral</a></p>
+<p style="font-size: 10px" id="footer-times" data-time="8/10/2017 00:00:00"></p>
+<script>
+    var beginTime=document.getElementById("footer-times").dataset.time
+    function show_date_time(){
+        var span=document.getElementById("footer-times")
+        window.setTimeout("show_date_time()", 1000);
+        BirthDay=new Date(beginTime);//初始日期
+        today=new Date();
+        timeold=(today.getTime()-BirthDay.getTime());
+        sectimeold=timeold/1000
+        secondsold=Math.floor(sectimeold);
+        msPerDay=24*60*60*1000
+        e_daysold=timeold/msPerDay
+        daysold=Math.floor(e_daysold);
+        e_hrsold=(e_daysold-daysold)*24;
+        hrsold=Math.floor(e_hrsold);
+        e_minsold=(e_hrsold-hrsold)*60;
+        minsold=Math.floor((e_hrsold-hrsold)*60);
+        seconds=Math.floor((e_minsold-minsold)*60);
+        span.innerHTML="本站已运行"+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
+    }
+    show_date_time();
+</script>
 
   </div>
 </div>
@@ -222,6 +271,8 @@
             menu();
         });
 </script>
+
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 
     <script type="text/javascript" src="/live2d/script.js"></script>
