@@ -44,14 +44,13 @@
       <title><![CDATA[Test03]]></title>
       <url>/2017/08/11/Test03/</url>
       <content type="html"><![CDATA[<p><img src="/11/Test03/hero_image.jpg" alt=""></p>
-<p>thumbnail: /Test03/hero_image.jpg</p>
-<img src="/2017/08/11/Test03/hero_image.jpg" alt="This is an example image" title="This is an example image">
+<p>thumbnail: /images/random/bg4.jpg<br>thumbnail: /Test03/hero_image.jpg<br>thumbnail: <a href="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" target="_blank" rel="external">https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg</a><br><img src="/2017/08/11/Test03/hero_image.jpg" alt="This is an example image" title="This is an example image"></p>
 ]]></content>
       
         
         <tags>
             
-            <tag> 文章03 </tag>
+            <tag> 文章03 test03 </tag>
             
         </tags>
         
