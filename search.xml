@@ -4,9 +4,9 @@
     
     <entry>
       <title><![CDATA[图片测试仍然在继续]]></title>
-      <url>/2017/08/12/test02/</url>
+      <url>/2017/08/12/Test02/</url>
       <content type="html"><![CDATA[<p><strong>Test02图片测试,有很多的地方觉得不是那么容易编译出效果，果然hexo 不是那么好驾驭</strong>                                                                                                                                                                              </p>
-<p><code>![](/test02/test02.jpg)</code></p>
+<p><img src="/test02/test02.jpg" alt=""></p>
 <h5 id="1：疑问？"><a href="#1：疑问？" class="headerlink" title="1：疑问？"></a>1：疑问？</h5><p>图片在测试的过程中在本地可以看到，可是一上载到仓库就失效我也不知道为何。</p>
 <p><img src="/test02/test02.jpg" alt="image"></p>
 <p><img src="/test02.jpg" alt=""></p>
@@ -49,17 +49,17 @@
     </entry>
     
     <entry>
-      <title><![CDATA[图片测试继续进行时，可能要用一些方法才奏效]]></title>
-      <url>/2017/08/11/test03/</url>
+      <title><![CDATA[图片测试继续进行时可能要用一些方法才奏效]]></title>
+      <url>/2017/08/11/Test03/</url>
       <content type="html"><![CDATA[<h4 id="测试图片03"><a href="#测试图片03" class="headerlink" title="测试图片03"></a>测试图片03</h4><p>看来用图床可以很好的实现功能个</p>
 <p><img src="/test03/test03.jpg" alt=""></p>
-<p>thumbnail: <a href="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" target="_blank" rel="external">https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg</a><br><img src="/2017/08/11/test03/test03.jpg" alt="这是个图片的插入方式的测试描述" title="这是个图片的插入方式的测试描述"></p>
+<p>thumbnail: <a href="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" target="_blank" rel="external">https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg</a><br><img src="/2017/08/11/Test03/test03.jpg" alt="这是个图片的插入方式的测试描述" title="这是个图片的插入方式的测试描述"></p>
 ]]></content>
       
         
         <tags>
             
-            <tag> 图片测试 image test </tag>
+            <tag> 图片测试 </tag>
             
         </tags>
         
