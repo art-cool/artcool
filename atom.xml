@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>雅客艺术空间</title>
+  <subtitle>artcool</subtitle>
+  <link href="/atom.xml" rel="self"/>
   
+  <link href="www.art.cool/"/>
+  <updated>2017-08-13T08:37:08.471Z</updated>
+  <id>www.art.cool/</id>
+  
+  <author>
+    <name>雅客</name>
     
-    <entry>
-      <title><![CDATA[史上最逼真奈德丽 比肩原画般的COS]]></title>
-      <url>/2017/08/13/20170813-game-cos/</url>
-      <content type="html"><![CDATA[<p><img src="http://ossweb-img.qq.com/upload/qqtalk/news/201708/101818498241687.jpg" alt="img"></p>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>史上最逼真奈德丽 比肩原画般的COS</title>
+    <link href="www.art.cool/2017/08/13/20170813-game-cos/"/>
+    <id>www.art.cool/2017/08/13/20170813-game-cos/</id>
+    <published>2017-08-13T08:29:56.000Z</published>
+    <updated>2017-08-13T08:37:08.471Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://ossweb-img.qq.com/upload/qqtalk/news/201708/101818498241687.jpg" alt="img"></p>
 <p><img src="http://ossweb-img.qq.com/upload/qqtalk/news/201708/101818498947605.jpg" alt="img"></p>
 <p><img src="http://ossweb-img.qq.com/upload/qqtalk/news/201708/101818499851768.jpg" alt="img"></p>
 <p><img src="http://ossweb-img.qq.com/upload/qqtalk/news/201708/101818501514398.jpg" alt="img"></p>
@@ -15,28 +32,31 @@
 <p><img src="http://ossweb-img.qq.com/upload/qqtalk/news/201708/101818507723897.jpg" alt="img"></p>
 <p><img src="http://ossweb-img.qq.com/upload/qqtalk/news/201708/10181850751551.jpg" alt="img"></p>
 ]]></content>
-      
-        <categories>
-            
-            <category> cosplay </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> cosplay </tag>
-            
-            <tag> game </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[如果人不在了留下的微信、QQ、支付宝怎么办]]></title>
-      <url>/2017/08/13/20170813-if-weixin-qq-zfb/</url>
-      <content type="html"><![CDATA[<p>导语：如果我挂了，支付宝、微信里的钱怎么办？难道无偿奉献给马爸爸了？这可不行，马爸爸再亲也比不过亲爸爸啊！虽然感觉有点 “杞人忧天”，但都很现实啊，所以一起来看看吧！</p>
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://ossweb-img.qq.com/upload/qqtalk/news/201708/101818498241687.jpg&quot; alt=&quot;img&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ossweb-img.qq.com/up
+    
+    </summary>
+    
+      <category term="cosplay" scheme="www.art.cool/categories/cosplay/"/>
+    
+    
+      <category term="cosplay" scheme="www.art.cool/tags/cosplay/"/>
+    
+      <category term="game" scheme="www.art.cool/tags/game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如果人不在了留下的微信、QQ、支付宝怎么办</title>
+    <link href="www.art.cool/2017/08/13/20170813-if-weixin-qq-zfb/"/>
+    <id>www.art.cool/2017/08/13/20170813-if-weixin-qq-zfb/</id>
+    <published>2017-08-13T08:04:34.000Z</published>
+    <updated>2017-08-13T08:36:30.705Z</updated>
+    
+    <content type="html"><![CDATA[<p>导语：如果我挂了，支付宝、微信里的钱怎么办？难道无偿奉献给马爸爸了？这可不行，马爸爸再亲也比不过亲爸爸啊！虽然感觉有点 “杞人忧天”，但都很现实啊，所以一起来看看吧！</p>
 <blockquote>
 <p>支付宝</p>
 </blockquote>
@@ -120,24 +140,34 @@
 <p>其三，不避讳，直接立遗嘱，写明哪里有什么，直截了当。</p>
 <p><strong>文章转自</strong> <a href="http://zlsin.com/1853.html" target="_blank" rel="external">http://zlsin.com/1853.html</a></p>
 ]]></content>
-      
-        
-        <tags>
-            
-            <tag> 支付宝 </tag>
-            
-            <tag> 微信 </tag>
-            
-            <tag> QQ </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[世界顶级名画100幅赏析]]></title>
-      <url>/2017/08/13/20170813-100-famous-paintings-in-the-world/</url>
-      <content type="html"><![CDATA[<hr>
+    <summary type="html">
+    
+      &lt;p&gt;导语：如果我挂了，支付宝、微信里的钱怎么办？难道无偿奉献给马爸爸了？这可不行，马爸爸再亲也比不过亲爸爸啊！虽然感觉有点 “杞人忧天”，但都很现实啊，所以一起来看看吧！&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;支付宝&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;应该有很多人和小
+    
+    </summary>
+    
+    
+      <category term="支付宝" scheme="www.art.cool/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/"/>
+    
+      <category term="微信" scheme="www.art.cool/tags/%E5%BE%AE%E4%BF%A1/"/>
+    
+      <category term="QQ" scheme="www.art.cool/tags/QQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>世界顶级名画100幅赏析</title>
+    <link href="www.art.cool/2017/08/13/20170813-100-famous-paintings-in-the-world/"/>
+    <id>www.art.cool/2017/08/13/20170813-100-famous-paintings-in-the-world/</id>
+    <published>2017-08-13T01:35:14.000Z</published>
+    <updated>2017-08-13T06:36:04.221Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
 <p><strong>画是一个凝聚了时间的历史，每一幅作品都是有故事的。我们在观看品鉴的时候了解其历史是一个非常有意思的事情。</strong></p>
 <p><img src="https://crawl.nosdn.127.net/nbotreplaceimg/807fb39cdf0a2cc26bd7c0ec0855255d/9012db12040a5cadcb87b0fccc443e31.jpg?imageView&amp;thumbnail=690x10000&amp;quality=75" alt="img"></p>
 <h5 id="1-无名女郎1883年"><a href="#1-无名女郎1883年" class="headerlink" title="1.无名女郎1883年"></a>1.无名女郎1883年</h5><p>克拉姆斯柯依 俄国 75.5cm×99cm 布 油彩 莫斯科特列恰科夫美术馆藏这是一幅颇具美学价值的性格肖像画，画家以精湛的技艺表现出对象的精神气质。画中的无名女郎高傲而又自尊，她穿戴着俄国上流社会豪华的服饰，坐在华贵的敞蓬马车上，背景是圣彼得堡著名的亚历山大剧院。究竟“无名女郎”是谁，至今仍是个谜。画家在肖像画上创造了一种新的表现风格，即用主题性的情节来描绘肖像，展示出一个刚毅、果断、满怀思绪、散发着青春活力的俄国知识女性形象。</p>
@@ -233,91 +263,114 @@
 <h5 id="46-足球运动员"><a href="#46-足球运动员" class="headerlink" title="46.足球运动员"></a>46.足球运动员</h5><p> 亨利·卢梭 法国 1908年 油画 现藏纽约古根海姆博物馆这幅画非常有立体感！画家把几个形象可笑的运动员，画成囚犯般的样子，不仅比例失调，而且环境也神秘：在两旁密集排列的树木中间奔走着，尽头是球场的栏杆。显然，这一切不是真实的生活，而是不可解释的梦幻。法国自学成才的画家卢梭在此探索了稚拙与神秘的双重思维。</p>
 <p>未完待续</p>
 ]]></content>
-      
-        <categories>
-            
-            <category> 西方美术史 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> 名画 </tag>
-            
-            <tag> 赏析 </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[图片测试仍然在继续]]></title>
-      <url>/2017/08/12/Test02/</url>
-      <content type="html"><![CDATA[<p><strong>Test02图片测试,有很多的地方觉得不是那么容易编译出效果，果然hexo 不是那么好驾驭</strong>                                                                                                                                                                              </p>
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;画是一个凝聚了时间的历史，每一幅作品都是有故事的。我们在观看品鉴的时候了解其历史是一个非常有意思的事情。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://crawl.nosdn.127.net/nbotreplaceimg/80
+    
+    </summary>
+    
+      <category term="西方美术史" scheme="www.art.cool/categories/%E8%A5%BF%E6%96%B9%E7%BE%8E%E6%9C%AF%E5%8F%B2/"/>
+    
+    
+      <category term="名画" scheme="www.art.cool/tags/%E5%90%8D%E7%94%BB/"/>
+    
+      <category term="赏析" scheme="www.art.cool/tags/%E8%B5%8F%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图片测试仍然在继续</title>
+    <link href="www.art.cool/2017/08/12/Test02/"/>
+    <id>www.art.cool/2017/08/12/Test02/</id>
+    <published>2017-08-11T16:36:30.000Z</published>
+    <updated>2017-08-12T12:38:43.048Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>Test02图片测试,有很多的地方觉得不是那么容易编译出效果，果然hexo 不是那么好驾驭</strong>                                                                                                                                                                              </p>
 <p><img src="/test02/test02.jpg" alt=""></p>
 <h5 id="1：疑问？"><a href="#1：疑问？" class="headerlink" title="1：疑问？"></a>1：疑问？</h5><p>图片在测试的过程中在本地可以看到，可是一上载到仓库就失效我也不知道为何。</p>
 <p><img src="/test02/test02.jpg" alt="image"></p>
 <p><img src="/test02.jpg" alt=""></p>
 <h5 id="2：奇怪？"><a href="#2：奇怪？" class="headerlink" title="2：奇怪？"></a>2：奇怪？</h5><p>基本上图片以相对路径来写会显示不出/test02/test02.jpg</p>
 ]]></content>
-      
-        
-        <tags>
-            
-            <tag> 图片测试 test </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[test05]]></title>
-      <url>/2017/08/12/test05/</url>
-      <content type="html"><![CDATA[<p>如果这是真的可以定义图片的话就好了</p>
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;Test02图片测试,有很多的地方觉得不是那么容易编译出效果，果然hexo 不是那么好驾驭&lt;/strong&gt;                                                                           
+    
+    </summary>
+    
+    
+      <category term="图片测试 test" scheme="www.art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95-test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test05</title>
+    <link href="www.art.cool/2017/08/12/test05/"/>
+    <id>www.art.cool/2017/08/12/test05/</id>
+    <published>2017-08-11T16:36:30.000Z</published>
+    <updated>2017-08-13T02:43:22.303Z</updated>
+    
+    <content type="html"><![CDATA[<p>如果这是真的可以定义图片的话就好了</p>
 <p><code></code></p>
 <p><code></code></p>
 <p><code>[](./test05/hero_image.jpg =100x)</code></p>
 ]]></content>
-      
-        <categories>
-            
-            <category> 测试test05 </category>
-            
-        </categories>
-        
-        
-        <tags>
-            
-            <tag> 图片测试 </tag>
-            
-            <tag> 文章测试 </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[图片测试继续进行时可能要用一些方法才奏效]]></title>
-      <url>/2017/08/11/Test03/</url>
-      <content type="html"><![CDATA[<h4 id="测试图片03"><a href="#测试图片03" class="headerlink" title="测试图片03"></a>测试图片03</h4><p>看来用图床可以很好的实现功能个</p>
+    <summary type="html">
+    
+      &lt;p&gt;如果这是真的可以定义图片的话就好了&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;[](./test05/hero_image.jpg =100x)&lt;/code&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="测试test05" scheme="www.art.cool/categories/%E6%B5%8B%E8%AF%95test05/"/>
+    
+    
+      <category term="图片测试" scheme="www.art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="文章测试" scheme="www.art.cool/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图片测试继续进行时可能要用一些方法才奏效</title>
+    <link href="www.art.cool/2017/08/11/Test03/"/>
+    <id>www.art.cool/2017/08/11/Test03/</id>
+    <published>2017-08-11T13:36:56.000Z</published>
+    <updated>2017-08-12T12:39:32.674Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="测试图片03"><a href="#测试图片03" class="headerlink" title="测试图片03"></a>测试图片03</h4><p>看来用图床可以很好的实现功能个</p>
 <p><img src="/test03/test03.jpg" alt=""></p>
 <p>thumbnail: <a href="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" target="_blank" rel="external">https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg</a><br><img src="/2017/08/11/Test03/test03.jpg" alt="这是个图片的插入方式的测试描述" title="这是个图片的插入方式的测试描述"></p>
 ]]></content>
-      
-        
-        <tags>
-            
-            <tag> 图片测试 </tag>
-            
-        </tags>
-        
-    </entry>
     
-    <entry>
-      <title></title>
-      <url>/2017/08/11/test01/</url>
-      <content type="html"><![CDATA[<p><strong>文本编辑器的效果测试一下这个效果看看如何。</strong></p>
+    <summary type="html">
+    
+      &lt;h4 id=&quot;测试图片03&quot;&gt;&lt;a href=&quot;#测试图片03&quot; class=&quot;headerlink&quot; title=&quot;测试图片03&quot;&gt;&lt;/a&gt;测试图片03&lt;/h4&gt;&lt;p&gt;看来用图床可以很好的实现功能个&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/test03/test03.jpg&quot; a
+    
+    </summary>
+    
+    
+      <category term="图片测试" scheme="www.art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="www.art.cool/2017/08/11/test01/"/>
+    <id>www.art.cool/2017/08/11/test01/</id>
+    <published>2017-08-10T16:35:20.000Z</published>
+    <updated>2017-08-12T10:09:34.244Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>文本编辑器的效果测试一下这个效果看看如何。</strong></p>
 <hr>
 <p>我想说的是用Typora作为md的编辑器是一个很不错的文本工具。</p>
 <p>作为一个起始我一直都梦想有个像样子的编译工具终于我找到了这款好用的文本编译器了。</p>
@@ -365,14 +418,28 @@
 <p>9：</p>
 <h1 id="Heading1"><a href="#Heading1" class="headerlink" title="Heading1"></a>Heading1</h1><h2 id="Heading2"><a href="#Heading2" class="headerlink" title="Heading2"></a>Heading2</h2><h3 id="Heading3"><a href="#Heading3" class="headerlink" title="Heading3"></a>Heading3</h3><h4 id="Heading4"><a href="#Heading4" class="headerlink" title="Heading4"></a>Heading4</h4><h5 id="Heading5"><a href="#Heading5" class="headerlink" title="Heading5"></a>Heading5</h5><h6 id="Heading6"><a href="#Heading6" class="headerlink" title="Heading6"></a>Heading6</h6><p>10：插入音乐播放器</p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&id=5046228&auto=1&height=32"></iframe>]]></content>
-      
-        
-    </entry>
     
-    <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>/2017/08/08/hello-world/</url>
-      <content type="html"><![CDATA[<p><img src="https://portablehexo.bitmoe.cn/hexopp/hexop.png" alt=""></p>
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;文本编辑器的效果测试一下这个效果看看如何。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;我想说的是用Typora作为md的编辑器是一个很不错的文本工具。&lt;/p&gt;
+&lt;p&gt;作为一个起始我一直都梦想有个像样子的编译工具终于我找到了这款好用的文本编译器了。&lt;/p&gt;
+&lt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="www.art.cool/2017/08/08/hello-world/"/>
+    <id>www.art.cool/2017/08/08/hello-world/</id>
+    <published>2017-08-07T16:36:30.000Z</published>
+    <updated>2017-08-12T09:41:48.140Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://portablehexo.bitmoe.cn/hexopp/hexop.png" alt=""></p>
 <blockquote>
 <p><strong>本版本仅适用于Win环境</strong><br>本文关键字： <strong>Hexo绿色版</strong>，<strong>Hexo便携版</strong>，<strong>Hexo配置</strong>，<strong>Hexo</strong>，<strong>U盘</strong></p>
 </blockquote>
@@ -453,10 +520,16 @@
 </ul>
 </blockquote>
 ]]></content>
-      
-        
-    </entry>
     
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;https://portablehexo.bitmoe.cn/hexopp/hexop.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;本版本仅适用于Win环境&lt;/strong&gt;&lt;br&gt;本文关键字： &lt;strong&gt;He
+    
+    </summary>
+    
+    
+  </entry>
   
-  
-</search>
+</feed>
