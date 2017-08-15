@@ -345,6 +345,20 @@
 
     <!-- Search -->
     
+    <!-- Google -->
+    <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable" method="post" action="">
+        <label id="search-label" class="mdl-button mdl-js-ripple-effect mdl-js-button mdl-button--fab mdl-color--accent mdl-shadow--4dp" for="search">
+            <i class="material-icons mdl-color-text--white" role="presentation">search</i>
+        </label>
+
+        <form autocomplete="off" id="search-form" method="get" action="//google.com/search" accept-charset="UTF-8" class="mdl-textfield__expandable-holder" target="_blank">
+            <input class="mdl-textfield__input search-input" type="search" name="q" id="search" placeholder="">
+            <label id="search-form-label" class="mdl-textfield__label" for="search"></label>
+
+            <input type="hidden" name="sitesearch" value="art.cool">
+        </form>
+    </div>
+
 
 
 
@@ -373,12 +387,6 @@
         </button>
         <ul class="mdl-menu mdl-js-menu mdl-menu--bottom-right" for="show-pages-button">
             
-                <a class="index_share-link" href="/About" title="About">
-                    <li class="mdl-menu__item mdl-js-ripple-effect">
-                        About
-                    </li>
-                </a>
-            
                 <a class="index_share-link" href="/gallery" title="Photo">
                     <li class="mdl-menu__item mdl-js-ripple-effect">
                         Photo
@@ -388,6 +396,12 @@
                 <a class="index_share-link" href="/links" title="Links">
                     <li class="mdl-menu__item mdl-js-ripple-effect">
                         Links
+                    </li>
+                </a>
+            
+                <a class="index_share-link" href="/about" title="About">
+                    <li class="mdl-menu__item mdl-js-ripple-effect">
+                        About
                     </li>
                 </a>
             
@@ -1114,16 +1128,6 @@
     <!-- Pages  -->
     
         <li>
-            <a href="/About" title="About">
-                
-                    <i class="material-icons sidebar-material-icons">person</i>
-                
-                About
-            </a>
-        </li>
-        
-    
-        <li>
             <a href="/gallery" title="Photo">
                 
                     <i class="material-icons sidebar-material-icons">photo</i>
@@ -1139,6 +1143,16 @@
                     <i class="material-icons sidebar-material-icons">links</i>
                 
                 Links
+            </a>
+        </li>
+        
+    
+        <li>
+            <a href="/about" title="About">
+                
+                    <i class="material-icons sidebar-material-icons">person</i>
+                
+                About
             </a>
         </li>
         
