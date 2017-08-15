@@ -124,11 +124,11 @@
         
         <tags>
             
-            <tag> 支付宝 </tag>
+            <tag> alipay </tag>
             
-            <tag> 微信 </tag>
+            <tag> weixin </tag>
             
-            <tag> QQ </tag>
+            <tag> qq </tag>
             
         </tags>
         
@@ -298,7 +298,9 @@
         
         <tags>
             
-            <tag> 图片测试 test </tag>
+            <tag> 图片测试 </tag>
+            
+            <tag> test </tag>
             
         </tags>
         
@@ -348,7 +350,7 @@
     </entry>
     
     <entry>
-      <title></title>
+      <title><![CDATA[测试文本工具的第一篇文章]]></title>
       <url>/2017/test01/</url>
       <content type="html"><![CDATA[<p><strong>文本编辑器的效果测试一下这个效果看看如何。</strong></p>
 <hr>
@@ -357,7 +359,7 @@
 <p>接下来作为测试要经理很多磨练才能很好的磨合目前所了解到的功能。</p>
 <p>Frist</p>
 <p>图片的插入直接用右键可以插入image，所使用的格式是[] 内的是描述（）内的是图片路径。</p>
-<p><img src="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" alt=""></p>
+<p><img src="http://ouq7n13su.bkt.clouddn.com/image/jpg/p001.jpg" alt=""></p>
 <p>Second</p>
 <p>[^第一篇文章测试]: </p>
 <p>3：</p>

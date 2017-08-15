@@ -54,7 +54,7 @@
     <link href="art.cool/2017/20170813-if-weixin-qq-zfb/"/>
     <id>art.cool/2017/20170813-if-weixin-qq-zfb/</id>
     <published>2017-08-13T08:04:34.000Z</published>
-    <updated>2017-08-13T08:36:30.705Z</updated>
+    <updated>2017-08-15T19:14:26.437Z</updated>
     
     <content type="html"><![CDATA[<p>导语：如果我挂了，支付宝、微信里的钱怎么办？难道无偿奉献给马爸爸了？这可不行，马爸爸再亲也比不过亲爸爸啊！虽然感觉有点 “杞人忧天”，但都很现实啊，所以一起来看看吧！</p>
 <blockquote>
@@ -152,11 +152,11 @@
     </summary>
     
     
-      <category term="支付宝" scheme="art.cool/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/"/>
+      <category term="alipay" scheme="art.cool/tags/alipay/"/>
     
-      <category term="微信" scheme="art.cool/tags/%E5%BE%AE%E4%BF%A1/"/>
+      <category term="weixin" scheme="art.cool/tags/weixin/"/>
     
-      <category term="QQ" scheme="art.cool/tags/QQ/"/>
+      <category term="qq" scheme="art.cool/tags/qq/"/>
     
   </entry>
   
@@ -165,7 +165,7 @@
     <link href="art.cool/2017/20170813-house-70-year/"/>
     <id>art.cool/2017/20170813-house-70-year/</id>
     <published>2017-08-13T07:48:03.000Z</published>
-    <updated>2017-08-13T08:56:04.921Z</updated>
+    <updated>2017-08-15T19:10:37.182Z</updated>
     
     <content type="html"><![CDATA[<p>接触产权的问题时是在高中，一次老师上课，不知道为啥就扯到房子上了<br><strong>他说：</strong>城市的房子产权只有 70 年，70 年后不一定是怎么回事呢，还是农村好，房子就是一辈子的</p>
 <p>那么问题来了，产权（土地使用权）到期后，房子还是你的吗？</p>
@@ -326,7 +326,7 @@
     <link href="art.cool/2017/Test02/"/>
     <id>art.cool/2017/Test02/</id>
     <published>2017-08-11T16:36:30.000Z</published>
-    <updated>2017-08-12T12:38:43.048Z</updated>
+    <updated>2017-08-15T19:17:10.464Z</updated>
     
     <content type="html"><![CDATA[<p><strong>Test02图片测试,有很多的地方觉得不是那么容易编译出效果，果然hexo 不是那么好驾驭</strong>                                                                                                                                                                              </p>
 <p><img src="/test02/test02.jpg" alt=""></p>
@@ -343,7 +343,9 @@
     </summary>
     
     
-      <category term="图片测试 test" scheme="art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95-test/"/>
+      <category term="图片测试" scheme="art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="test" scheme="art.cool/tags/test/"/>
     
   </entry>
   
@@ -352,7 +354,7 @@
     <link href="art.cool/2017/test05/"/>
     <id>art.cool/2017/test05/</id>
     <published>2017-08-11T16:36:30.000Z</published>
-    <updated>2017-08-13T02:43:22.303Z</updated>
+    <updated>2017-08-15T19:07:14.196Z</updated>
     
     <content type="html"><![CDATA[<p>如果这是真的可以定义图片的话就好了</p>
 <p><code></code></p>
@@ -384,7 +386,7 @@
     <link href="art.cool/2017/Test03/"/>
     <id>art.cool/2017/Test03/</id>
     <published>2017-08-11T13:36:56.000Z</published>
-    <updated>2017-08-12T12:39:32.674Z</updated>
+    <updated>2017-08-15T19:06:22.377Z</updated>
     
     <content type="html"><![CDATA[<h4 id="测试图片03"><a href="#测试图片03" class="headerlink" title="测试图片03"></a>测试图片03</h4><p>看来用图床可以很好的实现功能个</p>
 <p><img src="/test03/test03.jpg" alt=""></p>
@@ -404,11 +406,11 @@
   </entry>
   
   <entry>
-    <title></title>
+    <title>测试文本工具的第一篇文章</title>
     <link href="art.cool/2017/test01/"/>
     <id>art.cool/2017/test01/</id>
     <published>2017-08-10T16:35:20.000Z</published>
-    <updated>2017-08-12T10:09:34.244Z</updated>
+    <updated>2017-08-15T19:02:20.356Z</updated>
     
     <content type="html"><![CDATA[<p><strong>文本编辑器的效果测试一下这个效果看看如何。</strong></p>
 <hr>
@@ -417,7 +419,7 @@
 <p>接下来作为测试要经理很多磨练才能很好的磨合目前所了解到的功能。</p>
 <p>Frist</p>
 <p>图片的插入直接用右键可以插入image，所使用的格式是[] 内的是描述（）内的是图片路径。</p>
-<p><img src="https://i.pximg.net/img-master/img/2017/02/22/00/08/33/61575231_p1_master1200.jpg" alt=""></p>
+<p><img src="http://ouq7n13su.bkt.clouddn.com/image/jpg/p001.jpg" alt=""></p>
 <p>Second</p>
 <p>[^第一篇文章测试]: </p>
 <p>3：</p>
@@ -477,7 +479,7 @@
     <link href="art.cool/2017/hello-world/"/>
     <id>art.cool/2017/hello-world/</id>
     <published>2017-08-07T16:36:30.000Z</published>
-    <updated>2017-08-12T09:41:48.140Z</updated>
+    <updated>2017-08-15T19:04:03.097Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://portablehexo.bitmoe.cn/hexopp/hexop.png" alt=""></p>
 <blockquote>
