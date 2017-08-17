@@ -52,7 +52,7 @@ a {
 
 #local-search-result {
     position: absolute;
-    background-color: #fff;
+    background-color: rgba(255,255,255,.7);
     border-radius: 2px;
     box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
     z-index: 6;
@@ -474,8 +474,8 @@ a {
     }
 }
 #scheme-Paradox .index-top-block-slogan {
-    font-size: 24px;
-    line-height: 26px;
+    font-size: 38px;
+    line-height: 37px;
     font-weight: 400;
     margin: 0;
     text-shadow: 1px 1px 8px #444
@@ -845,7 +845,7 @@ a {
     margin-top: 5pc;
     padding: 40px;
     height: 120px;
-    background-color: #fff;
+    background-color: #424242;
     align-items: center
 }
 @media screen and (max-width: 840px) {
@@ -1136,11 +1136,11 @@ a {
 }
 #scheme-Paradox #search-label {
     right: 12px;
-    bottom: 36px;
+    bottom: 52px;
     z-index: 7;
 }
 #scheme-Paradox #search-form {
-    bottom: 46px
+    bottom: 48px
 }
 #scheme-Paradox #search-form-label {
     left: 1px
@@ -1160,7 +1160,7 @@ a {
 }
 @media screen and (max-width: 480px) {
     #scheme-Paradox #search-form {
-        margin-left: 0
+        margin-left: 24px
     }
 }
 @media screen and (max-width: 840px) {
@@ -2064,17 +2064,17 @@ a {
     background-color: #e91e63
 }
 .sidebar-colored .sidebar-toggle {
-    color: #f5f5f5;
+    color: #781111;
     background-color: transparent
 }
 .sidebar-colored .sidebar-brand {
-    color: #e0e0e0;
-    background-color: transparent
+    color: #6a1111;
+    background-color: rgba(150, 10, 10, 0.25) !transparent
 }
 .sidebar-colored .sidebar-brand:focus,
 .sidebar-colored .sidebar-brand:hover {
-    color: #333331;
-    background-color: rgba(0, 0, 0, .1)
+    color: #808080;
+    background-color: rgba(106, 17, 17, 0.7)
 }
 .sidebar-colored .sidebar-badge,
 .hot_tags-count,
@@ -2095,7 +2095,7 @@ a {
     background-color: transparent
 }
 .sidebar-colored .sidebar-nav li>a i {
-    color: #eeeeee
+    color: #6a1111
 }
 .sidebar-colored .sidebar-nav li:hover>a,
 .sidebar-colored .sidebar-nav li>a:hover {
