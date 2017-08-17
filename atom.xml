@@ -4,9 +4,9 @@
   <subtitle>artcool</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="art.cool/"/>
+  <link href="http://www.art.cool/"/>
   <updated>2017-08-13T08:37:08.471Z</updated>
-  <id>art.cool/</id>
+  <id>http://www.art.cool/</id>
   
   <author>
     <name>雅客</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>史上最逼真奈德丽 比肩原画般的COS</title>
-    <link href="art.cool/2017/20170813-game-cos/"/>
-    <id>art.cool/2017/20170813-game-cos/</id>
+    <link href="http://www.art.cool/2017/20170813-game-cos/"/>
+    <id>http://www.art.cool/2017/20170813-game-cos/</id>
     <published>2017-08-13T08:29:56.000Z</published>
     <updated>2017-08-13T08:37:08.471Z</updated>
     
@@ -39,19 +39,19 @@
     
     </summary>
     
-      <category term="cosplay" scheme="art.cool/categories/cosplay/"/>
+      <category term="cosplay" scheme="http://www.art.cool/categories/cosplay/"/>
     
     
-      <category term="cosplay" scheme="art.cool/tags/cosplay/"/>
+      <category term="cosplay" scheme="http://www.art.cool/tags/cosplay/"/>
     
-      <category term="game" scheme="art.cool/tags/game/"/>
+      <category term="game" scheme="http://www.art.cool/tags/game/"/>
     
   </entry>
   
   <entry>
     <title>如果人不在了留下的微信、QQ、支付宝怎么办</title>
-    <link href="art.cool/2017/20170813-if-weixin-qq-zfb/"/>
-    <id>art.cool/2017/20170813-if-weixin-qq-zfb/</id>
+    <link href="http://www.art.cool/2017/20170813-if-weixin-qq-zfb/"/>
+    <id>http://www.art.cool/2017/20170813-if-weixin-qq-zfb/</id>
     <published>2017-08-13T08:04:34.000Z</published>
     <updated>2017-08-15T19:14:26.437Z</updated>
     
@@ -147,18 +147,18 @@
     </summary>
     
     
-      <category term="alipay" scheme="art.cool/tags/alipay/"/>
+      <category term="alipay" scheme="http://www.art.cool/tags/alipay/"/>
     
-      <category term="weixin" scheme="art.cool/tags/weixin/"/>
+      <category term="weixin" scheme="http://www.art.cool/tags/weixin/"/>
     
-      <category term="qq" scheme="art.cool/tags/qq/"/>
+      <category term="qq" scheme="http://www.art.cool/tags/qq/"/>
     
   </entry>
   
   <entry>
     <title>房子70年产权到期怎么办</title>
-    <link href="art.cool/2017/20170813-house-70-year/"/>
-    <id>art.cool/2017/20170813-house-70-year/</id>
+    <link href="http://www.art.cool/2017/20170813-house-70-year/"/>
+    <id>http://www.art.cool/2017/20170813-house-70-year/</id>
     <published>2017-08-13T07:48:03.000Z</published>
     <updated>2017-08-15T19:10:37.182Z</updated>
     
@@ -187,16 +187,16 @@
     </summary>
     
     
-      <category term="房产" scheme="art.cool/tags/%E6%88%BF%E4%BA%A7/"/>
+      <category term="房产" scheme="http://www.art.cool/tags/%E6%88%BF%E4%BA%A7/"/>
     
-      <category term="70年产权" scheme="art.cool/tags/70%E5%B9%B4%E4%BA%A7%E6%9D%83/"/>
+      <category term="70年产权" scheme="http://www.art.cool/tags/70%E5%B9%B4%E4%BA%A7%E6%9D%83/"/>
     
   </entry>
   
   <entry>
     <title>世界顶级名画100幅赏析</title>
-    <link href="art.cool/2017/20170813-100-famous-paintings-in-the-world/"/>
-    <id>art.cool/2017/20170813-100-famous-paintings-in-the-world/</id>
+    <link href="http://www.art.cool/2017/20170813-100-famous-paintings-in-the-world/"/>
+    <id>http://www.art.cool/2017/20170813-100-famous-paintings-in-the-world/</id>
     <published>2017-08-13T01:35:14.000Z</published>
     <updated>2017-08-15T13:52:32.106Z</updated>
     
@@ -305,19 +305,19 @@
     
     </summary>
     
-      <category term="西方美术史" scheme="art.cool/categories/%E8%A5%BF%E6%96%B9%E7%BE%8E%E6%9C%AF%E5%8F%B2/"/>
+      <category term="西方美术史" scheme="http://www.art.cool/categories/%E8%A5%BF%E6%96%B9%E7%BE%8E%E6%9C%AF%E5%8F%B2/"/>
     
     
-      <category term="名画" scheme="art.cool/tags/%E5%90%8D%E7%94%BB/"/>
+      <category term="名画" scheme="http://www.art.cool/tags/%E5%90%8D%E7%94%BB/"/>
     
-      <category term="赏析" scheme="art.cool/tags/%E8%B5%8F%E6%9E%90/"/>
+      <category term="赏析" scheme="http://www.art.cool/tags/%E8%B5%8F%E6%9E%90/"/>
     
   </entry>
   
   <entry>
     <title>test04字体目录标题测试</title>
-    <link href="art.cool/2017/test04/"/>
-    <id>art.cool/2017/test04/</id>
+    <link href="http://www.art.cool/2017/test04/"/>
+    <id>http://www.art.cool/2017/test04/</id>
     <published>2017-08-11T16:36:30.000Z</published>
     <updated>2017-08-16T18:48:12.866Z</updated>
     
@@ -358,19 +358,19 @@
     
     </summary>
     
-      <category term="test04" scheme="art.cool/categories/test04/"/>
+      <category term="test04" scheme="http://www.art.cool/categories/test04/"/>
     
     
-      <category term="图片测试" scheme="art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+      <category term="图片测试" scheme="http://www.art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
     
-      <category term="文章测试" scheme="art.cool/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+      <category term="文章测试" scheme="http://www.art.cool/tags/%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Test03图片测试本地图片测试</title>
-    <link href="art.cool/2017/test03/"/>
-    <id>art.cool/2017/test03/</id>
+    <link href="http://www.art.cool/2017/test03/"/>
+    <id>http://www.art.cool/2017/test03/</id>
     <published>2017-08-11T13:36:56.000Z</published>
     <updated>2017-08-16T18:54:01.238Z</updated>
     
@@ -394,14 +394,14 @@
     </summary>
     
     
-      <category term="图片测试" scheme="art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+      <category term="图片测试" scheme="http://www.art.cool/tags/%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Test02视频插件测试</title>
-    <link href="art.cool/2017/test02/"/>
-    <id>art.cool/2017/test02/</id>
+    <link href="http://www.art.cool/2017/test02/"/>
+    <id>http://www.art.cool/2017/test02/</id>
     <published>2017-08-11T12:45:30.000Z</published>
     <updated>2017-08-16T18:21:32.582Z</updated>
     
@@ -416,16 +416,16 @@
     </summary>
     
     
-      <category term="test" scheme="art.cool/tags/test/"/>
+      <category term="test" scheme="http://www.art.cool/tags/test/"/>
     
-      <category term="video" scheme="art.cool/tags/video/"/>
+      <category term="video" scheme="http://www.art.cool/tags/video/"/>
     
   </entry>
   
   <entry>
     <title>Test01各种测试的第一篇文章</title>
-    <link href="art.cool/2017/test01/"/>
-    <id>art.cool/2017/test01/</id>
+    <link href="http://www.art.cool/2017/test01/"/>
+    <id>http://www.art.cool/2017/test01/</id>
     <published>2017-08-11T10:35:20.000Z</published>
     <updated>2017-08-16T18:21:45.760Z</updated>
     
